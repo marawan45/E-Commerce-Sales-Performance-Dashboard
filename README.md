@@ -2,8 +2,10 @@
 
 ## Executive overview
 <img width="1151" height="646" alt="لقطة شاشة 2025-11-01 150707" src="https://github.com/user-attachments/assets/199e478b-73e7-4337-b032-601e66062779" />
+
 ## Product performance
 <img width="1150" height="643" alt="لقطة شاشة 2025-11-01 150722" src="https://github.com/user-attachments/assets/ba57b23d-301d-4e90-b423-8a876d808d6d" />
+
 ## Time Trends
 <img width="1156" height="645" alt="لقطة شاشة 2025-11-01 150735" src="https://github.com/user-attachments/assets/e2f541bb-8565-4e9e-a1af-5b828766e6af" />
 
